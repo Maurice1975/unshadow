@@ -10,3 +10,5 @@ Use the default rockyou.txt file to test your unshadow file with.
 I tried it myself and it works on Parrot OS.
 
 Check the cmd.txt for the commands I used. to unshadow this file and feed it to johnny.
+
+This is just for unshadow testing and not Johnny or the cmdline version.
