@@ -1,0 +1,7 @@
+Working on Parrot OS these are the commands that worked for me.
+
+sudo /usr/bin/unshadow /path/to/training-passwd.txt /path/to/training-shadow.txt > /home/parrot/unshadow.db
+This will create the unshadow file to feed to johnny.
+
+Open johnny and click "open password file" using the PASSWD format.
+On the Options page select Wordlist and click Browse for the default rockyou.txt list.
